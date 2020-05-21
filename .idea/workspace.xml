@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32269e3f-1c25-4c1e-8f4d-244e75f6eee0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c53ZwyUi0z299BhWMKL3dAjVCv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RunManager">
+    <configuration name="register.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" temporary="true" path="$PROJECT_DIR$/register.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.register.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32269e3f-1c25-4c1e-8f4d-244e75f6eee0" name="Default Changelist" comment="" />
+      <created>1589804686609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589804686609</updated>
+      <workItem from="1589804692953" duration="23406000" />
+      <workItem from="1590066246000" duration="408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="59" key="#CLI_Interpreters" timestamp="1589891095149">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="263" y="59" key="#CLI_Interpreters/0.40.1366.728@0.40.1366.728" timestamp="1589891095149" />
+    <state x="390" y="47" key="#PHP" timestamp="1589891073717">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="390" y="47" key="#PHP/0.40.1366.728@0.40.1366.728" timestamp="1589891073717" />
+    <state x="392" y="86" key="#register.php" timestamp="1589891096164">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="392" y="86" key="#register.php/0.40.1366.728@0.40.1366.728" timestamp="1589891096164" />
+    <state x="517" y="327" key="NewPhpFileDialog" timestamp="1590066417270">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="517" y="327" key="NewPhpFileDialog/0.40.1366.728/1366.0.1920.1040@0.40.1366.728" timestamp="1590066417270" />
+    <state x="517" y="327" key="NewPhpFileDialog/0.40.1366.728@0.40.1366.728" timestamp="1589809667814" />
+    <state x="184" y="49" key="SettingsEditor" timestamp="1589809657448">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="184" y="49" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1589809657448" />
+  </component>
+</project>
